@@ -1,5 +1,11 @@
-# Welcome to GitHub Desktop!
+# NativeWorkout PWA
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Installable iPhone preview for the NativeWorkout training app.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## GitHub Pages URL
+
+After uploading this folder to a public GitHub repository with Pages enabled from the `main` branch root, open:
+
+`https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/TrainingAppPWA/`
+
+On iPhone Safari, use **Share -> Add to Home Screen**.
